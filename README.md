@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Marcin Białecki</h1>
-<h3 align="center">A passionate backend developer from Poland</h3>
+<h3 align="center">Programmer from Poland with a passion for introducing automation</h3>
 
-- 🌱 I’m currently learning **T-SQL**
+- 🌱 I’m currently learning **T-SQL** and **C++**
 
-- 👀 I’m interested in machine learning
+- 👀 I’m interested in building robots and automating processes
 
 - 👨‍💻 Video about my main projects [https://youtu.be/EgeJhOf33Gc](https://youtu.be/EgeJhOf33Gc)
 
