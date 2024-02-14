@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcin Białecki</h1>
-<h3 align="center">Programmer from Poland with a passion for introducing automation</h3>
+<h3 align="center">Programmer and Data Engineer from Poland with a passion for introducing automation</h3>
 
 - 🌱 I’m currently learning **C++** and **T-SQL**
 
